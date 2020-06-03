@@ -1,0 +1,10 @@
+li a{
+    color: rgb(155, 51, 51);
+    font-size: 3rem;
+}
+body{
+    background: white url('images/bg_1.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
